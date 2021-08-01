@@ -77,3 +77,9 @@
     </div>
  
  ```
+ 
+ ### if you have a project collector then export the file like this:
+ the file script.min.js and script.js spells out the exports, but import them into a file that collects the entire project:
+ ```javascript
+        import  modal from './modules/modal';  // './modules/modal' -src in which the slider file lies
+ ```
