@@ -31,6 +31,7 @@
 
 ```
 
+### download this file sliderFull.min.css if you will use the layout as shown in the example
 
 ### example layout:
  
